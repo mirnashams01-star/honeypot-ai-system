@@ -1,0 +1,1012 @@
+{
+  "127.0.0.1": {
+    "ip": "127.0.0.1",
+    "first_seen": "2026-05-10 23:27:39",
+    "last_seen": "2026-05-13 21:59:20",
+    "total_attempts": 98,
+    "attack_types_used": [
+      "Bot Attack",
+      "Brute Force",
+      "Broken Authentication",
+      "SQL Injection",
+      "Credential Stuffing"
+    ],
+    "usernames_tried": [
+      "admin",
+      "ahmed@gmail.com",
+      "sara@yahoo.com",
+      "admin@company.com",
+      "user@hotmail.com",
+      "user0",
+      "user1",
+      "user2",
+      "user3",
+      "user4",
+      "user5",
+      "user6",
+      "user7",
+      "user8",
+      "user9",
+      "user10",
+      "user11",
+      "user12",
+      "user13",
+      "user14",
+      "user15",
+      "user16",
+      "user17",
+      "user18",
+      "user19"
+    ],
+    "passwords_tried": [
+      "123456",
+      "password",
+      "admin123",
+      "qwerty",
+      "abc123",
+      "111111",
+      "letmein",
+      "monkey",
+      "Ahmed@2021",
+      "Sara1234!",
+      "Company@123",
+      "P@ssw0rd",
+      "pass0",
+      "pass1",
+      "pass2",
+      "pass3",
+      "pass4",
+      "pass5",
+      "pass6",
+      "pass7",
+      "pass8",
+      "pass9",
+      "pass10",
+      "pass11",
+      "pass12",
+      "pass13",
+      "pass14",
+      "pass15",
+      "pass16",
+      "pass17",
+      "pass18",
+      "pass19"
+    ],
+    "timeline": [
+      {
+        "time": "2026-05-10 23:27:39",
+        "username": "admin",
+        "password": "123456",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:41",
+        "username": "admin",
+        "password": "password",
+        "attack_types": [
+          "SQL Injection",
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:43",
+        "username": "admin",
+        "password": "admin123",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:45",
+        "username": "admin",
+        "password": "qwerty",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:47",
+        "username": "admin",
+        "password": "abc123",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:49",
+        "username": "admin",
+        "password": "111111",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:51",
+        "username": "admin",
+        "password": "letmein",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:27:53",
+        "username": "admin",
+        "password": "monkey",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:02",
+        "username": "ahmed@gmail.com",
+        "password": "Ahmed@2021",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:04",
+        "username": "sara@yahoo.com",
+        "password": "Sara1234!",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:06",
+        "username": "admin@company.com",
+        "password": "Company@123",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:08",
+        "username": "user@hotmail.com",
+        "password": "P@ssw0rd",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:20",
+        "username": "user0",
+        "password": "pass0",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:22",
+        "username": "user1",
+        "password": "pass1",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:24",
+        "username": "user2",
+        "password": "pass2",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:26",
+        "username": "user3",
+        "password": "pass3",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:28",
+        "username": "user4",
+        "password": "pass4",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:31",
+        "username": "user5",
+        "password": "pass5",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:33",
+        "username": "user6",
+        "password": "pass6",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:35",
+        "username": "user7",
+        "password": "pass7",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:37",
+        "username": "user8",
+        "password": "pass8",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:39",
+        "username": "user9",
+        "password": "pass9",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:41",
+        "username": "user10",
+        "password": "pass10",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:43",
+        "username": "user11",
+        "password": "pass11",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:45",
+        "username": "user12",
+        "password": "pass12",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:47",
+        "username": "user13",
+        "password": "pass13",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:49",
+        "username": "user14",
+        "password": "pass14",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:51",
+        "username": "user15",
+        "password": "pass15",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:53",
+        "username": "user16",
+        "password": "pass16",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:55",
+        "username": "user17",
+        "password": "pass17",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:57",
+        "username": "user18",
+        "password": "pass18",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-10 23:28:59",
+        "username": "user19",
+        "password": "pass19",
+        "attack_types": [
+          "Bot Attack"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:45",
+        "username": "admin",
+        "password": "123456",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:47",
+        "username": "admin",
+        "password": "password",
+        "attack_types": [
+          "SQL Injection",
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:49",
+        "username": "admin",
+        "password": "admin123",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:52",
+        "username": "admin",
+        "password": "qwerty",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:54",
+        "username": "admin",
+        "password": "abc123",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:56",
+        "username": "admin",
+        "password": "111111",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:22:58",
+        "username": "admin",
+        "password": "letmein",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:23:00",
+        "username": "admin",
+        "password": "monkey",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ]
+      },
+      {
+        "time": "2026-05-12 21:23:50",
+        "username": "ahmed@gmail.com",
+        "password": "Ahmed@2021",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:23:52",
+        "username": "sara@yahoo.com",
+        "password": "Sara1234!",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:23:54",
+        "username": "admin@company.com",
+        "password": "Company@123",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:23:56",
+        "username": "user@hotmail.com",
+        "password": "P@ssw0rd",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:00",
+        "username": "user0",
+        "password": "pass0",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:02",
+        "username": "user1",
+        "password": "pass1",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:04",
+        "username": "user2",
+        "password": "pass2",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:06",
+        "username": "user3",
+        "password": "pass3",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:08",
+        "username": "user4",
+        "password": "pass4",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:10",
+        "username": "user5",
+        "password": "pass5",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:25:44",
+        "username": "admin",
+        "password": "123456",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:25:46",
+        "username": "admin",
+        "password": "password",
+        "attack_types": [
+          "SQL Injection",
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "CRITICAL"
+      },
+      {
+        "time": "2026-05-12 21:25:48",
+        "username": "admin",
+        "password": "admin123",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:25:50",
+        "username": "admin",
+        "password": "qwerty",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:25:52",
+        "username": "admin",
+        "password": "abc123",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:25:54",
+        "username": "admin",
+        "password": "111111",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:25:56",
+        "username": "admin",
+        "password": "letmein",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:25:58",
+        "username": "admin",
+        "password": "monkey",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:26:59",
+        "username": "ahmed@gmail.com",
+        "password": "Ahmed@2021",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:27:02",
+        "username": "sara@yahoo.com",
+        "password": "Sara1234!",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:27:04",
+        "username": "admin@company.com",
+        "password": "Company@123",
+        "attack_types": [
+          "Bot Attack",
+          "Credential Stuffing"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-12 21:27:06",
+        "username": "user@hotmail.com",
+        "password": "P@ssw0rd",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:28",
+        "username": "user0",
+        "password": "pass0",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:30",
+        "username": "user1",
+        "password": "pass1",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:32",
+        "username": "user2",
+        "password": "pass2",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:34",
+        "username": "user3",
+        "password": "pass3",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:36",
+        "username": "user4",
+        "password": "pass4",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:38",
+        "username": "user5",
+        "password": "pass5",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:40",
+        "username": "user6",
+        "password": "pass6",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:42",
+        "username": "user7",
+        "password": "pass7",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:45",
+        "username": "user8",
+        "password": "pass8",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:47",
+        "username": "user9",
+        "password": "pass9",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:49",
+        "username": "user10",
+        "password": "pass10",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:51",
+        "username": "user11",
+        "password": "pass11",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:53",
+        "username": "user12",
+        "password": "pass12",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:55",
+        "username": "user13",
+        "password": "pass13",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:57",
+        "username": "user14",
+        "password": "pass14",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:27:59",
+        "username": "user15",
+        "password": "pass15",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:28:01",
+        "username": "user16",
+        "password": "pass16",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:28:03",
+        "username": "user17",
+        "password": "pass17",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:28:05",
+        "username": "user18",
+        "password": "pass18",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-12 21:28:07",
+        "username": "user19",
+        "password": "pass19",
+        "attack_types": [
+          "Bot Attack"
+        ],
+        "severity": "MEDIUM"
+      },
+      {
+        "time": "2026-05-13 20:33:10",
+        "username": "admin",
+        "password": "123456",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 20:33:12",
+        "username": "admin",
+        "password": "password",
+        "attack_types": [
+          "SQL Injection",
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "CRITICAL"
+      },
+      {
+        "time": "2026-05-13 20:33:14",
+        "username": "admin",
+        "password": "admin123",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 20:33:16",
+        "username": "admin",
+        "password": "qwerty",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 20:33:19",
+        "username": "admin",
+        "password": "abc123",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 20:33:21",
+        "username": "admin",
+        "password": "111111",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 20:33:23",
+        "username": "admin",
+        "password": "letmein",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 20:33:25",
+        "username": "admin",
+        "password": "monkey",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:05",
+        "username": "admin",
+        "password": "123456",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:07",
+        "username": "admin",
+        "password": "password",
+        "attack_types": [
+          "SQL Injection",
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "CRITICAL"
+      },
+      {
+        "time": "2026-05-13 21:59:09",
+        "username": "admin",
+        "password": "admin123",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:11",
+        "username": "admin",
+        "password": "qwerty",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:13",
+        "username": "admin",
+        "password": "abc123",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:15",
+        "username": "admin",
+        "password": "111111",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:17",
+        "username": "admin",
+        "password": "letmein",
+        "attack_types": [
+          "Bot Attack",
+          "Brute Force",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      },
+      {
+        "time": "2026-05-13 21:59:20",
+        "username": "admin",
+        "password": "monkey",
+        "attack_types": [
+          "Bot Attack",
+          "Broken Authentication"
+        ],
+        "severity": "HIGH"
+      }
+    ],
+    "threat_level": "CRITICAL \ud83d\udd34",
+    "location": {
+      "country": "Local Network",
+      "city": "localhost",
+      "isp": "Local"
+    }
+  }
+}

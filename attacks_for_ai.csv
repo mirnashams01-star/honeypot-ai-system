@@ -1,0 +1,59 @@
+timestamp,ip,country,city,isp,username,password,browser,device,attack_types,severity,source
+2026-05-12 21:23:50,127.0.0.1,Local Network,localhost,Local,ahmed@gmail.com,Ahmed@2021,Script/Bot,Unknown,Bot Attack|Credential Stuffing,HIGH,web_honeypot
+2026-05-12 21:23:52,127.0.0.1,Local Network,localhost,Local,sara@yahoo.com,Sara1234!,Script/Bot,Unknown,Bot Attack|Credential Stuffing,HIGH,web_honeypot
+2026-05-12 21:23:54,127.0.0.1,Local Network,localhost,Local,admin@company.com,Company@123,Script/Bot,Unknown,Bot Attack|Credential Stuffing,HIGH,web_honeypot
+2026-05-12 21:23:56,127.0.0.1,Local Network,localhost,Local,user@hotmail.com,P@ssw0rd,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:00,127.0.0.1,Local Network,localhost,Local,user0,pass0,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:02,127.0.0.1,Local Network,localhost,Local,user1,pass1,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:04,127.0.0.1,Local Network,localhost,Local,user2,pass2,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:06,127.0.0.1,Local Network,localhost,Local,user3,pass3,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:08,127.0.0.1,Local Network,localhost,Local,user4,pass4,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:10,127.0.0.1,Local Network,localhost,Local,user5,pass5,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:25:44,127.0.0.1,Local Network,localhost,Local,admin,123456,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:25:46,127.0.0.1,Local Network,localhost,Local,admin,password,Script/Bot,Unknown,SQL Injection|Bot Attack|Brute Force|Broken Authentication,CRITICAL,web_honeypot
+2026-05-12 21:25:48,127.0.0.1,Local Network,localhost,Local,admin,admin123,Script/Bot,Unknown,Bot Attack|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:25:50,127.0.0.1,Local Network,localhost,Local,admin,qwerty,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:25:52,127.0.0.1,Local Network,localhost,Local,admin,abc123,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:25:54,127.0.0.1,Local Network,localhost,Local,admin,111111,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:25:56,127.0.0.1,Local Network,localhost,Local,admin,letmein,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:25:58,127.0.0.1,Local Network,localhost,Local,admin,monkey,Script/Bot,Unknown,Bot Attack|Broken Authentication,HIGH,web_honeypot
+2026-05-12 21:26:59,127.0.0.1,Local Network,localhost,Local,ahmed@gmail.com,Ahmed@2021,Script/Bot,Unknown,Bot Attack|Credential Stuffing,HIGH,web_honeypot
+2026-05-12 21:27:02,127.0.0.1,Local Network,localhost,Local,sara@yahoo.com,Sara1234!,Script/Bot,Unknown,Bot Attack|Credential Stuffing,HIGH,web_honeypot
+2026-05-12 21:27:04,127.0.0.1,Local Network,localhost,Local,admin@company.com,Company@123,Script/Bot,Unknown,Bot Attack|Credential Stuffing,HIGH,web_honeypot
+2026-05-12 21:27:06,127.0.0.1,Local Network,localhost,Local,user@hotmail.com,P@ssw0rd,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:28,127.0.0.1,Local Network,localhost,Local,user0,pass0,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:30,127.0.0.1,Local Network,localhost,Local,user1,pass1,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:32,127.0.0.1,Local Network,localhost,Local,user2,pass2,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:34,127.0.0.1,Local Network,localhost,Local,user3,pass3,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:36,127.0.0.1,Local Network,localhost,Local,user4,pass4,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:38,127.0.0.1,Local Network,localhost,Local,user5,pass5,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:40,127.0.0.1,Local Network,localhost,Local,user6,pass6,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:42,127.0.0.1,Local Network,localhost,Local,user7,pass7,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:45,127.0.0.1,Local Network,localhost,Local,user8,pass8,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:47,127.0.0.1,Local Network,localhost,Local,user9,pass9,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:49,127.0.0.1,Local Network,localhost,Local,user10,pass10,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:51,127.0.0.1,Local Network,localhost,Local,user11,pass11,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:53,127.0.0.1,Local Network,localhost,Local,user12,pass12,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:55,127.0.0.1,Local Network,localhost,Local,user13,pass13,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:57,127.0.0.1,Local Network,localhost,Local,user14,pass14,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:27:59,127.0.0.1,Local Network,localhost,Local,user15,pass15,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:28:01,127.0.0.1,Local Network,localhost,Local,user16,pass16,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:28:03,127.0.0.1,Local Network,localhost,Local,user17,pass17,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:28:05,127.0.0.1,Local Network,localhost,Local,user18,pass18,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-12 21:28:07,127.0.0.1,Local Network,localhost,Local,user19,pass19,Script/Bot,Unknown,Bot Attack,MEDIUM,web_honeypot
+2026-05-13 20:33:10,127.0.0.1,Local Network,localhost,Local,admin,123456,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 20:33:12,127.0.0.1,Local Network,localhost,Local,admin,password,Script/Bot,Unknown,SQL Injection|Bot Attack|Brute Force|Broken Authentication,CRITICAL,web_honeypot
+2026-05-13 20:33:14,127.0.0.1,Local Network,localhost,Local,admin,admin123,Script/Bot,Unknown,Bot Attack|Broken Authentication,HIGH,web_honeypot
+2026-05-13 20:33:16,127.0.0.1,Local Network,localhost,Local,admin,qwerty,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 20:33:19,127.0.0.1,Local Network,localhost,Local,admin,abc123,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 20:33:21,127.0.0.1,Local Network,localhost,Local,admin,111111,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 20:33:23,127.0.0.1,Local Network,localhost,Local,admin,letmein,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 20:33:25,127.0.0.1,Local Network,localhost,Local,admin,monkey,Script/Bot,Unknown,Bot Attack|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:05,127.0.0.1,Local Network,localhost,Local,admin,123456,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:07,127.0.0.1,Local Network,localhost,Local,admin,password,Script/Bot,Unknown,SQL Injection|Bot Attack|Brute Force|Broken Authentication,CRITICAL,web_honeypot
+2026-05-13 21:59:09,127.0.0.1,Local Network,localhost,Local,admin,admin123,Script/Bot,Unknown,Bot Attack|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:11,127.0.0.1,Local Network,localhost,Local,admin,qwerty,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:13,127.0.0.1,Local Network,localhost,Local,admin,abc123,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:15,127.0.0.1,Local Network,localhost,Local,admin,111111,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:17,127.0.0.1,Local Network,localhost,Local,admin,letmein,Script/Bot,Unknown,Bot Attack|Brute Force|Broken Authentication,HIGH,web_honeypot
+2026-05-13 21:59:20,127.0.0.1,Local Network,localhost,Local,admin,monkey,Script/Bot,Unknown,Bot Attack|Broken Authentication,HIGH,web_honeypot
