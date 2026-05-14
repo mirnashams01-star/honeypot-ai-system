@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+
+  cowrie:
+    image: cowrie/cowrie:latest
+    container_name: cowrie
+    ports:
+      - "2222:2222"
+    volumes:
+      - ./logs/cowrie:/cowrie/cowrie-git/var/log/cowrie
+
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    ports:
+      - "3000:3000"
+
+  webapp:
+    build: ./webapp
+    container_name: fake-login
+    ports:
+      - "5000:5000"
